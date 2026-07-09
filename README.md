@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="figures/Screenshot 2026-07-09 224123.png" alt="Project Logo" width="1000" height="300">
+  <img src="figures/Screenshot 2026-07-09 224123.png" alt="Project Logo" width="1000" height="500">
   
-  # PredKlebAMR
-  
-  <p align="center">
-    A phenotype predictor dashboard, powered by a high-throughput ML model.
+    <p align="center">
+    ## **A phenotype predictor dashboard, powered by a high-throughput ML model.**
   </p>
   
   </div>
