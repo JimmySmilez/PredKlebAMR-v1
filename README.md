@@ -2,8 +2,7 @@
   <img src="figures/Screenshot 2026-07-09 224123.png" alt="Project Logo" width="1000" height="400">
   
     <p align="center">
-    
-    ## A phenotype predictor dashboard, powered by a high-throughput ML model.
+      ## A phenotype predictor dashboard, powered by a high-throughput ML model.
   </p>
   
   </div>
