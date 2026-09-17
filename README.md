@@ -37,6 +37,12 @@ PredKlebAMR offers users two (2) options:
 ## 🔗Web-based Version: 
 ### [Access the Web-based Dashboard here](https://jimmysmilez-predklebamr.hf.space)  
 
+### Web-based Version Demo:
+A one-minute demonstration showing how to use the tool: 
+
+https://github.com/user-attachments/assets/8a758a36-48c4-4447-a4f2-176619e38547
+
+
 
 ## 🖥️How to Run the Tool (PredKlebAMR) locally
 **1. Clone the Repository**
