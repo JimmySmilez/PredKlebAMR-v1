@@ -78,6 +78,7 @@ The underlying model was trained using a high-quality dataset of *Klebsiella pne
 
 ## 📚Citations
 If you use this tool, please acknowledge the foundational resources:
+- **PredKlebAMR:** Babajide AA, et al. (2026). "PredKlebAMR: A machine learning framework prioritizing sensitivity in Klebsiella pneumoniae resistance profiling." Scientific Reports. https://doi.org/10.1038/s41598-026-74806-8
 - **Kleborate:** Lam MMC, et al. (2021). "A genomic surveillance framework and tool for Klebsiella pneumoniae and its complex." Nature Communications, 12(1).
 - **Ranger:** Wright MN, Ziegler A. (2017). "ranger: A Fast Implementation of Random Forests." Journal of Statistical Software, 77(1).
 
